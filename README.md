@@ -28,7 +28,6 @@ I began my journey as a Computer Science student before transitioning into cyber
 <div>
 <img src="https://img.shields.io/badge/-Windows-0078D6?&style=for-the-badge&logo=windows&logoColor=white" />
 <img src="https://img.shields.io/badge/-Kali%20Linux-557C94?&style=for-the-badge&logo=kalilinux&logoColor=white" />
-<img src="https://img.shields.io/badge/-Sysmon-000000?&style=for-the-badge&logo=microsoft&logoColor=white" />
 </div>
 
 ### SIEM
@@ -44,7 +43,7 @@ I began my journey as a Computer Science student before transitioning into cyber
 ## Projects
 
 ### 🧪 Home Lab Project – Phase 1
-Set up an isolated cybersecurity home lab using VirtualBox with Kali Linux and Windows 11 VMs. Configured internal networking and static IPs for safe hands-on testing.
+Set up an isolated cybersecurity home lab using VirtualBox with Kali Linux and Windows 10VMs. Configured internal networking and static IPs for safe hands-on testing.
 
 📄 [Read Full Report (PDF)](./Cybersecurity_Home_Lab_Report_Phase1.pdf)  
 🖼️ [Screenshots Folder](./screenshots)
