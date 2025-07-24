@@ -67,7 +67,7 @@ After execution, the payload established a reverse shell connection back to the 
 ## Troubleshooting Highlights
 
 - **Networking:** Solved VM communication issues by correctly configuring the internal adapter and assigning static IPs.
-- **Log Forwarding:** Diagnosed missing logs by reviewing and correcting the `input.conf` and ensuring the Universal Forwarder service was running.
+- **Log Forwarding:** Diagnosed missing logs by reviewing and correcting the input.conf and ensuring the Universal Forwarder service was running.
 - **Attack Sequence:** Adjusted the order of operations to ensure logs reflected a realistic attacker timeline.
 
 ## Lessons Learned
