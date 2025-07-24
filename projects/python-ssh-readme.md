@@ -29,11 +29,11 @@ pip install -r requirements.txt
 File Structure
 
 brute-force-detector/
-├── auth.log              # Sample input log file
-├── detector.py           # Main Python script
-├── .env                  # Environment file storing the Slack webhook URL
-├── requirements.txt      # Python dependencies
-└── README.md             # Project documentation
+|auth.log              # Sample input log file
+|detector.py           # Main Python script
+|.env                  # Environment file storing the Slack webhook URL
+|requirements.txt      # Python dependencies
+README.md             # Project documentation
 
 Slack Integration
 
