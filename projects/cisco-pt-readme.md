@@ -29,16 +29,6 @@ The lab is ideal for entry-level information security professionals seeking hand
     - 1 Web Server (DMZ - VLAN 30)
     - 1 Admin Workstation and 1 Syslog Server (VLAN 99)
 
-## File Structure
-
-network-topology-lab  
-| File/Asset         | Description                                         |
-|:-------------------|:----------------------------------------------------|
-| `topology.pkt`     | Cisco Packet Tracer file with full configuration    |
-| `README.md`        | Project documentation                               |
-| `lab-notes.txt`    | Configuration notes and IP addressing plan          |
-| `syslog-server.cfg`| Example syslog configuration for the Linux server   |
-
 ## VLAN Configuration
 
     VLAN 10: User PCs  
