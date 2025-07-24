@@ -9,12 +9,13 @@ I began my journey as a Computer Science student before transitioning into cyber
 
 ## Skills
 
-| Skill                        | Associated Project         |
-|-----------------------------|----------------------------|
-| Network Configuration       | Home Lab Project           |
-| Virtualization (VirtualBox) | Home Lab Project           |
-| Threat Simulation           | Home Lab Project (Planned) |
-| Incident Response Workflow  | Home Lab Project (Planned) |
+| Skill                         | Associated Project                            |
+|------------------------------|-----------------------------------------------|
+| Network Monitoring           | [Windows & Kali Incident Response Lab](./projects/windows-kali-readme.md) |
+| Log Analysis (SIEM)          | [Windows & Kali Incident Response Lab](./projects/windows-kali-readme.md) |
+| Offensive Security Techniques| [Windows & Kali Incident Response Lab](./projects/windows-kali-readme.md) |
+| Splunk + Sysmon Integration  | [Windows & Kali Incident Response Lab](./projects/windows-kali-readme.md) |
+| Incident Documentation       | [PDF Report](./projects/windows-kali-report.pdf)                             |
 
 ## Tools
 
@@ -42,10 +43,11 @@ I began my journey as a Computer Science student before transitioning into cyber
 
 ## Projects
 
-### 🧪 Home Lab Project – Phase 1
-Set up an isolated cybersecurity home lab using VirtualBox with Kali Linux and Windows 10VMs. Configured internal networking and static IPs for safe hands-on testing.
+### Windows & Kali Incident Response Lab
+Simulated a realistic internal attack scenario by configuring a segmented VirtualBox network with Kali Linux and Windows 10 VMs. Captured detailed endpoint data using Sysmon, forwarded logs to Splunk via Universal Forwarder, and visualized attacker activity in real-time. 
 
-📄 [Read Full Report (PDF)](./Cybersecurity_Home_Lab_Report_Phase1.pdf)  
-🖼️ [Screenshots Folder](./screenshots)
+- [Project README](./projects/windows-kali-readme.md)
+- [Full Report (PDF)](./projects/windows-kali-report.pdf)
 
 ---
+
